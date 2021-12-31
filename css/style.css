@@ -1,0 +1,31 @@
+.parent{
+
+    display: flex;
+    }
+    .child{
+        
+    width: 30%;
+        
+    height: 300px;
+        
+    background: red;
+        
+    margin: 20px 20px;
+    }
+    .parent_two{
+
+display: flex;
+
+justify-content: space-between;
+
+}
+    .child_two{
+        
+width: 428px;
+        
+height: 324px;
+        
+background: green;
+        
+margin: auto;
+    }
